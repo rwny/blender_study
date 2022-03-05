@@ -1,2 +1,2 @@
 # blender_study
-blender 3d study
+3drwny blender 3d study
